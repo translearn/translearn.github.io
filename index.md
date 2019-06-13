@@ -23,9 +23,9 @@ layout: default
 
 Industry 4.0 will be driven by two main technologies: AI and Robotics. The combination of both allows robots to learn skills and tasks without explicitly programming them. Data-driven robot learning algorithms offer an untapped potential for significantly reducing robot programming cost, optimizing robot movements and enabling new robot application. Current learning algorithms, however, require a lot of data to learn complex industrial tasks. The generation of this data by real robots is cost-intensive and time-consuming. Simulations are attractive environments for training robots as they provide an abundant source of cheap, scalable and safe data. On the other hand, behaviors developed by agents in simulation are often specific to the characteristics of the simulator, and physics simulators do not reflect the physical world sufficiently well. Due to modelling errors, strategies that are successful in simulation may not transfer to their real world counterparts ("reality gap"). 
 
-This workshop is named after the Indo-German research project 'TransLearn' which addresses the above-mentioned topics. The workshop organizers are conducting this project and invite authors to submit papers relevant to this theme.
+This workshop is named after the Indo-German research project *TransLearn* which addresses the above-mentioned topics. The workshop organizers are conducting this project and invite authors to submit papers relevant to this theme.
 
-The aim of this workshop is to discuss and share ideas in relation to the 'TransLearn' project and transfer learning in general. The workshop is intended for robot and machine learning researchers as well as manufacturing and warehouse automation practitioners. Particular objectives of this workshop are to:
+The aim of this workshop is to discuss and share ideas in relation to the *TransLearn* project and transfer learning in general. The workshop is intended for robot and machine learning researchers as well as manufacturing and warehouse automation practitioners. Particular objectives of this workshop are to:
 
 - Develop a community of researchers working on learning robot skills and tasks in industrial applications
 - Discuss the current state of the art and future directions for bridging the gap between simulation and reality in robotic manipulation
@@ -103,7 +103,7 @@ The papers should be submitted using the [EasyChair](https://easychair.org/confe
 |---------------|--------------------------------------------------------------------|
 | 12:00 - 13:15 | Invited Talks Session II                                           |
 | 13:15 - 14:15 | Lunch Break                                                        |
-| 14:15 - 15:15 | Paper Presenatation Session II                                     |
+| 14:15 - 15:15 | Paper Presentation Session II                                     |
 |---------------|--------------------------------------------------------------------|
 | 15:15 - 16:15 | Panel Discussion                                                   |
 |---------------|--------------------------------------------------------------------|
