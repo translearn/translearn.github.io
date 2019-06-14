@@ -39,7 +39,6 @@ The aim of this workshop is to discuss and share ideas in relation to the *Trans
 
 - Dr. Rainer Bischoff, Head of KUKA Corporate Research
 - Prof. Laxmidhar Behera, IIT Kanpur
-- Prof. Torsten Kröger, Karlsruhe Institute of Technology
 - Dr. Balamuralidhar P, TATA Consultancy Services
 
 
@@ -87,8 +86,8 @@ The papers should be submitted using the [EasyChair](https://easychair.org/confe
 ## Important Dates <a href="#toc" class="top-link">[Top]</a>
 
 * Submission deadline: July 15, 2019: 23:59 Pacific Time (UTC-7)
-* Acceptance notification: August 31, 2019
-* Submission of camera-ready paper: September 10, 2019
+* Acceptance notification: August 12, 2019
+* Submission of camera-ready paper: August 26, 2019
 
 <a name="schedule"/>
 ## Workshop Schedule <a href="#toc" class="top-link">[Top]</a>
