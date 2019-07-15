@@ -37,8 +37,9 @@ The aim of this workshop is to discuss and share ideas in relation to the *Trans
 <a name="speakers"/>
 ## Invited Speakers <a href="#toc" class="top-link">[Top]</a>
 
+- Prof. Mary-Anne Williams, University of Technology Sydney
+- Prof. Laxmidhar Behera, Indian Institute of Technology Kanpur
 - Dr. Rainer Bischoff, Head of KUKA Corporate Research
-- Prof. Laxmidhar Behera, IIT Kanpur
 - Dr. Balamuralidhar P, TATA Consultancy Services
 
 
