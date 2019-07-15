@@ -37,10 +37,10 @@ The aim of this workshop is to discuss and share ideas in relation to the *Trans
 <a name="speakers"/>
 ## Invited Speakers <a href="#toc" class="top-link">[Top]</a>
 
-- Prof. Mary-Anne Williams, University of Technology Sydney
-- Prof. Laxmidhar Behera, Indian Institute of Technology Kanpur
-- Dr. Rainer Bischoff, Head of KUKA Corporate Research
-- Dr. Balamuralidhar P, TATA Consultancy Services
+- [Prof. Mary-Anne Williams](https://www.xplainableai.org/), University of Technology Sydney
+- [Prof. Laxmidhar Behera](http://home.iitk.ac.in/~lbehera/index.html), Indian Institute of Technology Kanpur
+- [Dr. Rainer Bischoff](https://de.linkedin.com/in/rainer-bischoff-47403963), Head of KUKA Corporate Research
+- [Dr. Balamuralidhar P](https://de.linkedin.com/in/balamuralidhar-p-b5a82124), TATA Consultancy Services
 
 
 <a name="topics"/>
@@ -86,9 +86,9 @@ The papers should be submitted using the [EasyChair](https://easychair.org/confe
 <a name="dates"/>
 ## Important Dates <a href="#toc" class="top-link">[Top]</a>
 
-* Submission deadline: July 15, 2019: 23:59 Pacific Time (UTC-7)
-* Acceptance notification: August 12, 2019
-* Submission of camera-ready paper: August 26, 2019
+* Submission deadline: August 19, 2019: 23:59 Pacific Time (UTC-7)
+* Acceptance notification: September 2, 2019
+* Submission of camera-ready paper: September 9, 2019
 
 <a name="schedule"/>
 ## Workshop Schedule <a href="#toc" class="top-link">[Top]</a>
