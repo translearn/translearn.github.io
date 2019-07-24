@@ -31,6 +31,7 @@ The aim of this workshop is to discuss and share ideas in relation to the *Trans
 - Discuss the current state of the art and future directions for bridging the gap between simulation and reality in robotic manipulation
 - Provide collaboration opportunities 
 
+This workshop is endorsed by the [IEEE-RAS Technical Committee for Robot Learning](https://www.ieee-ras.org/robot-learning/). 
 
 
 
