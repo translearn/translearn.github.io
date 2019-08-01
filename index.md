@@ -42,7 +42,7 @@ This workshop is endorsed by the [IEEE-RAS Technical Committee for Robot Learnin
 - [Prof. Laxmidhar Behera](http://home.iitk.ac.in/~lbehera/index.html), Indian Institute of Technology Kanpur
 - [Dr. Rainer Bischoff](https://de.linkedin.com/in/rainer-bischoff-47403963), Head of KUKA Corporate Research
 - [Dr. Balamuralidhar P](https://de.linkedin.com/in/balamuralidhar-p-b5a82124), TATA Consultancy Services
-- [Dr. Amit Pandey](https://www.amitkpandey.com/), Chief Technology Officier (CTO) & Chief Science Officer (CSO) at Hanson Robotics
+- [Dr. Amit Pandey](https://www.amitkpandey.com/), Chief Technology Officier & Chief Science Officer at Hanson Robotics
 
 
 
