@@ -89,7 +89,7 @@ The papers should be submitted using the [EasyChair](https://easychair.org/confe
 <a name="dates"/>
 ## Important Dates <a href="#toc" class="top-link">[Top]</a>
 
-* Submission deadline: August 19, 2019: 23:59 Pacific Time (UTC-7)
+* Submission deadline: <s>August 19, 2019</s> August 26, 2019: 23:59 Pacific Time (UTC-7)
 * Acceptance notification: September 2, 2019
 * Submission of camera-ready paper: September 9, 2019
 
