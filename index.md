@@ -92,25 +92,36 @@ The papers should be submitted using the [EasyChair](https://easychair.org/confe
 * Submission deadline: <s>August 19, 2019</s> August 26, 2019: 23:59 Pacific Time (UTC-7)
 * Acceptance notification: September 2, 2019
 * Submission of camera-ready paper: September 9, 2019
+* Workshop: October 17, 2019
+
+
 
 <a name="schedule"/>
+## Venue <a href="#toc" class="top-link">[Top]</a>
+[Le Meridien](https://goo.gl/maps/CK8jx8msoRn7J8m87), Windsor Place, New Delhi - Room R2 (Sovereign 2)
+
+
 ## Workshop Schedule <a href="#toc" class="top-link">[Top]</a>
 
+|---------------|--------------------------------------------------------------------|
+| 08:30 - 08:40 | Opening remarks                                                    |
+|---------------|--------------------------------------------------------------------|
+| 08:45 - 09:10 | Invited talk: **Dr. Rainer Bischoff**                                  |
+| 09:15 - 09:40 | Invited talk: **Dr. Balamuralidhar P**                                 |
+| 09:45 - 10:00 | Contributed paper: Shresth Verma - Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots                                       |
+| 10:00 - 10:15 | Contributed paper: Aditya Jain - A Physics-enabled Simulation Environment for Solution of O3D-BPP using Feedback driven DRL Technique                                       |
+| 10:15 - 10:30 | Contributed paper: Virender Singh - Deceive the Agent: Transferring Deep Reinforcement Learning based Visual Servoing from Simulation to Reality                             |
 
 |---------------|--------------------------------------------------------------------|
-| 09:00 - 09:15 | Inauguration & Welcome Speech                                      |
+| 10:30 - 11:00 | Coffee break                                                       |
+| 11:00 - 11:25 | Invited talk: **Prof. Mary-Anne Williams**                         |
+| 11:30 - 11:55 | Invited talk: **Dr. Amit Pandey**                                  |
+| 12:00 - 12:25 | Invited talk: **Prof. Laxmidhar Behera**                           |
 |---------------|--------------------------------------------------------------------|
-| 09:15 - 10:30 | Invited Talks Session I                                            |
-| 10:30 - 11:00 | Tea Break                                                          |
-| 11:00 - 12:00 | Paper Presentation Session I                                       |
+| 12:30 - 12:55 | Panel discussion                                                   |
 |---------------|--------------------------------------------------------------------|
-| 12:00 - 13:15 | Invited Talks Session II                                           |
-| 13:15 - 14:15 | Lunch Break                                                        |
-| 14:15 - 15:15 | Paper Presentation Session II                                     |
-|---------------|--------------------------------------------------------------------|
-| 15:15 - 16:15 | Panel Discussion                                                   |
-|---------------|--------------------------------------------------------------------|
-| 16:15 - 16:30 | Closing Ceremony                                                   |
+| 12:55 - 13:00 | Closing remarks                                                    |
+| 13:00 - 14:00 | High tea & closing ceremony                                        |
 |---------------|--------------------------------------------------------------------|
 
 
