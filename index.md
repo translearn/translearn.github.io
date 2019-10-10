@@ -114,7 +114,7 @@ The papers should be submitted using the [EasyChair](https://easychair.org/confe
 | 10:15 - 10:30 | Contributed paper: Virender Singh - Deceive the Agent: Transferring Deep Reinforcement Learning based Visual Servoing from Simulation to Reality |
 |---------------|--------------------------------------------------------------------|
 | 10:30 - 11:00 | Coffee break                                                       |
-| 11:00 - 11:25 | Invited talk: **Prof. Mary-Anne Williams**                         |
+| 11:00 - 11:25 | Invited talk: **Prof. Mary-Anne Williams** - Designing Explainable Robots to Build Human Trust  |
 | 11:30 - 11:55 | Invited talk: **Dr. Amit Pandey**                                  |
 | 12:00 - 12:25 | Invited talk: **Prof. Laxmidhar Behera**                           |
 |---------------|--------------------------------------------------------------------|
