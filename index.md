@@ -109,9 +109,9 @@ The papers should be submitted using the [EasyChair](https://easychair.org/confe
 | 08:45 - 09:10 | Invited talk: **Dr. Rainer Bischoff**                                  |
 | 09:15 - 09:40 | Invited talk: **Dr. Balamuralidhar P**                                 |
 |---------------|--------------------------------------------------------------------|
-| 09:45 - 10:00 | Contributed paper: Shresth Verma - Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots |
-| 10:00 - 10:15 | Contributed paper: Aditya Jain - A Physics-enabled Simulation Environment for Solution of O3D-BPP using Feedback driven DRL Technique |
-| 10:15 - 10:30 | Contributed paper: Virender Singh - Deceive the Agent: Transferring Deep Reinforcement Learning based Visual Servoing from Simulation to Reality |
+| 09:45 - 10:00 | Contributed paper: Shresth Verma - Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots [[pdf](assets/paper/TransLearn_2019_Deep_Reinforcement_Learning_for_Single-Shot_Diagnosis_and_Adaptation_in_Damaged_Robots.pdf){:target="_blank"}]|
+| 10:00 - 10:15 | Contributed paper: Aditya Jain - A Physics-enabled Simulation Environment for Solution of O3D-BPP using Feedback driven DRL Technique [[pdf](assets/paper/TransLearn_2019_A_Physics-enabled_Simulation_Environment_for_Solution_of_O3D-BPP_using Feedback-Driven_DRL_Technique.pdf){:target="_blank"}]|
+| 10:15 - 10:30 | Contributed paper: Virender Singh - Deceive the Agent: Transferring Deep Reinforcement Learning based Visual Servoing from Simulation to Reality [[pdf](assets/paper/TransLearn_2019_Deceive_the_Agent_Transferring_Deep_Reinforcement_Learning_based_Visual_Servoing_from_Simulation_to_Reality.pdf){:target="_blank"}]|
 |---------------|--------------------------------------------------------------------|
 | 10:30 - 11:00 | Coffee break                                                       |
 | 11:00 - 11:25 | Invited talk: **Prof. Mary-Anne Williams** - Designing Explainable Robots to Build Human Trust  |
